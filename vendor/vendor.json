@@ -15,6 +15,12 @@
 			"revisionTime": "2014-10-17T20:07:13Z"
 		},
 		{
+			"checksumSHA1": "3aPjsbAKCPtyTEVzfO43u7Tbuok=",
+			"path": "github.com/micahwedemeyer/gphoto2go",
+			"revision": "6a9613d10afbd63fbf60686808218b6bd5fa53eb",
+			"revisionTime": "2017-06-06T08:58:50Z"
+		},
+		{
 			"checksumSHA1": "bk8AIaMyTeY7CW85Zg2HDrZVSo0=",
 			"path": "github.com/spf13/cobra",
 			"revision": "fd32f09af19efc9b1279c54e0d8ed23f66232a15",
